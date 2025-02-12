@@ -4,3 +4,4 @@
 # Pretendo inserir outros arquivos conforme avançar no curso
 # Fazendo uma alteração para o desafio da Alura.
 # Não imaginei que um hasgtag fosse fazer tanta diferença!!!
+# Agora vou ignorar um arquivo.
