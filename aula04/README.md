@@ -1,4 +1,5 @@
-Esse projeto é uma atividade realizada no curso do youtube.
-Status do projeto >:construction: Projeto em construção: construction:
-Pretendo inserir outros arquivos conforme avançar no curso
-Fazendo uma alteração para o desafio da Alura.
+# Esse projeto é uma atividade realizada no curso do youtube.
+# Status do projeto >:construction: Projeto em construção: construction:
+# Pretendo inserir outros arquivos conforme avançar no curso
+# Fazendo uma alteração para o desafio da Alura.
+# Não imaginei que um hasgtag fosse fazer tanta diferença!!!
