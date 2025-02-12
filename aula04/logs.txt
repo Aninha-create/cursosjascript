@@ -1,1 +1,2 @@
 Add um arquivo que depois será ignorado.
+necessito enviar este arquivo para o git.
